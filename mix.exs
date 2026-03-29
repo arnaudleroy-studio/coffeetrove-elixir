@@ -4,7 +4,7 @@ defmodule CoffeeTrove.MixProject do
   def project do
     [
       app: :coffeetrove,
-      version: "0.1.1",
+      version: "0.1.2",
       elixir: "~> 1.14",
       description: "Access 440K+ cafes, brewing guides, and coffee data from CoffeeTrove.",
       package: package(),
