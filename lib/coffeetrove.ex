@@ -5,7 +5,7 @@ defmodule CoffeeTrove do
   Homepage: https://coffeetrove.com
   """
 
-  @version "0.1.0"
+  @version "0.1.1"
   @base_url "https://coffeetrove.com"
 
   def version, do: @version

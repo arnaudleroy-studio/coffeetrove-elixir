@@ -1,0 +1,12 @@
+# coffeetrove v0.1.1 - Table of Contents
+
+Access 440K+ cafes, brewing guides, and coffee data from CoffeeTrove.
+
+## Pages
+
+- [CoffeeTrove Elixir Client](readme.md)
+
+## Modules
+
+- [CoffeeTrove](CoffeeTrove.md): Access 440K+ cafes, brewing guides, and coffee data from CoffeeTrove.
+

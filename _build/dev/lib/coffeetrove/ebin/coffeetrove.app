@@ -1,0 +1,1 @@
+{application,coffeetrove,[{modules,['Elixir.CoffeeTrove']},{optional_applications,[]},{applications,[kernel,stdlib,elixir]},{description,"Access 440K+ cafes, brewing guides, and coffee data from CoffeeTrove."},{registered,[]},{vsn,"0.1.1"}]}.
